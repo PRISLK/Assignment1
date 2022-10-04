@@ -7,7 +7,7 @@ Data :- Refer to the data file (assignment_data.txt) given.
 
 Task :-
 
-The test file "assignment_data.txt" contains sample text from a twitter feed, student course feedback, and a research 
+The text file "assignment_data.txt" contains sample text from a twitter feed, student course feedback, and a research 
 paper.
 
 1. For each text type in assignment_data.txt, tokenize the text using an available tokenizer. Discuss about the accuracy of the tokenizer on each type of text.
